@@ -12,7 +12,7 @@ const NewGameAnalysis: React.FC = () => {
         {/* Featured Image */}
         <div className="relative w-full h-64 md:h-96 rounded-2xl overflow-hidden shadow-xl mb-12 group">
           <img 
-            src="https://images.unsplash.com/photo-1595878715977-2e8f8df18ea8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" 
+            src="https://github.com/Sahara0304/web/blob/main/components/tap.png?raw=true" 
             alt="Heartbeat Town Vibe" 
             className="w-full h-full object-cover transform group-hover:scale-105 transition duration-700"
           />
