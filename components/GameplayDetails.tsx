@@ -98,7 +98,7 @@ const GameplayDetails: React.FC = () => {
                     </div>
                     <div className="md:w-1/2 bg-slate-100 relative h-64 md:h-auto">
                         <img 
-                          src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                          src="https://github.com/Sahara0304/web/blob/main/components/manage.png?raw=true" 
                           alt="Management UI" 
                           className="w-full h-full object-cover"
                         />
@@ -116,7 +116,7 @@ const GameplayDetails: React.FC = () => {
                   {/* Card 1 */}
                   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition overflow-hidden">
                     <div className="h-48 w-full overflow-hidden">
-                       <img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80" alt="Roads" className="w-full h-full object-cover" />
+                       <img src="https://github.com/Sahara0304/web/blob/main/components/p1.jpg?raw=true" alt="Roads" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-8">
                         <div className="flex items-center gap-3 mb-3">
@@ -135,7 +135,7 @@ const GameplayDetails: React.FC = () => {
                   {/* Card 2 */}
                   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition overflow-hidden">
                     <div className="h-48 w-full overflow-hidden">
-                       <img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=800&q=80" alt="Infrastructure" className="w-full h-full object-cover" />
+                       <img src="https://github.com/Sahara0304/web/blob/main/components/p2.png?raw=true" alt="Infrastructure" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-8">
                         <div className="flex items-center gap-3 mb-3">
