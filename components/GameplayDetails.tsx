@@ -116,7 +116,7 @@ const GameplayDetails: React.FC = () => {
                   {/* Card 1 */}
                   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition overflow-hidden">
                     <div className="h-48 w-full overflow-hidden">
-                       <img src="https://github.com/Sahara0304/web/blob/main/components/p1.jpg?raw=true" alt="Roads" className="w-full h-full object-cover" />
+                       <img src="https://github.com/Sahara0304/web/blob/main/components/p1.png?raw=true" alt="Roads" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-8">
                         <div className="flex items-center gap-3 mb-3">
@@ -153,7 +153,7 @@ const GameplayDetails: React.FC = () => {
                   {/* Card 3 */}
                   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition overflow-hidden">
                     <div className="h-48 w-full overflow-hidden">
-                       <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80" alt="Services" className="w-full h-full object-cover" />
+                       <img src="https://github.com/Sahara0304/web/blob/main/components/p3.png?raw=true" alt="Services" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-8">
                         <div className="flex items-center gap-3 mb-3">
@@ -171,7 +171,7 @@ const GameplayDetails: React.FC = () => {
                   {/* Card 4 */}
                   <div className="bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition overflow-hidden">
                     <div className="h-48 w-full overflow-hidden">
-                       <img src="https://images.unsplash.com/photo-1565514020176-db76fa50545b?auto=format&fit=crop&w=800&q=80" alt="Traffic" className="w-full h-full object-cover" />
+                       <img src="https://github.com/Sahara0304/web/blob/main/components/p4.png?raw=true" alt="Traffic" className="w-full h-full object-cover" />
                     </div>
                     <div className="p-8">
                         <div className="flex items-center gap-3 mb-3">
@@ -213,7 +213,7 @@ const GameplayDetails: React.FC = () => {
                     </div>
                     <div className="md:w-1/2 bg-slate-100 relative h-64 md:h-auto">
                         <img 
-                          src="https://images.unsplash.com/photo-1545559828-56eb0f04c633?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                          src="https://github.com/Sahara0304/web/blob/main/components/landscape.jpg?raw=true" 
                           alt="Realistic City Detail" 
                           className="w-full h-full object-cover"
                         />
