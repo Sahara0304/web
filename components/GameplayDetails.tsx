@@ -5,10 +5,10 @@ const GameplayDetails: React.FC = () => {
   const [showGallery, setShowGallery] = useState(false);
 
   const cityImages = [
-    { src: "./city1.png", title: "繁华中心区" },
-    { src: "./city2.png", title: "立体交通网" },
-    { src: "./city3.png", title: "生态居住区" },
-    { src: "./city4.png", title: "城市夜景" },
+    { src: "city1.png", title: "繁华中心区" },
+    { src: "city2.png", title: "立体交通网" },
+    { src: "city3.png", title: "生态居住区" },
+    { src: "city4.png", title: "城市夜景" },
   ];
 
   return (
