@@ -5,10 +5,10 @@ const GameplayDetails: React.FC = () => {
   const [showGallery, setShowGallery] = useState(false);
 
   const cityImages = [
-    { src: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=800&q=80", title: "繁华中心区" },
-    { src: "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?auto=format&fit=crop&w=800&q=80", title: "立体交通网" },
-    { src: "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?auto=format&fit=crop&w=800&q=80", title: "生态居住区" },
-    { src: "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=800&q=80", title: "城市夜景" },
+    { src: "./city1.png", title: "繁华中心区" },
+    { src: "./city2.png", title: "立体交通网" },
+    { src: "./city3.png", title: "生态居住区" },
+    { src: "./city4.png", title: "城市夜景" },
   ];
 
   return (
