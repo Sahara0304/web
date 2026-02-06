@@ -13,7 +13,7 @@ const FavoriteGame: React.FC = () => {
         {/* 9:1 Aspect Ratio Image - Moved Here */}
         <div className="w-full h-32 md:h-48 rounded-xl overflow-hidden shadow-lg mb-12 relative group">
            <img 
-             src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" 
+             src="https://github.com/Sahara0304/web/blob/main/components/city_time.png?raw=true" 
              alt="City Horizon Banner" 
              className="w-full h-full object-cover transform group-hover:scale-105 transition duration-700"
            />
@@ -28,7 +28,7 @@ const FavoriteGame: React.FC = () => {
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
             <div className="relative overflow-hidden rounded-xl shadow-xl aspect-video">
               <img 
-                src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" 
+                src="https://github.com/Sahara0304/web/blob/main/components/cover.png?raw=true" 
                 alt="Cities Skylines Style City" 
                 className="w-full h-full object-cover transform group-hover:scale-105 transition duration-500"
               />
